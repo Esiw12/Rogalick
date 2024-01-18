@@ -1,0 +1,11 @@
+C:\Users\arhon\source\repos\yashmetov\yashmetov\bin\Debug\net8.0\yashmetov.deps.json
+C:\Users\arhon\source\repos\yashmetov\yashmetov\bin\Debug\net8.0\yashmetov.dll
+C:\Users\arhon\source\repos\yashmetov\yashmetov\bin\Debug\net8.0\yashmetov.pdb
+C:\Users\arhon\source\repos\yashmetov\yashmetov\obj\Debug\net8.0\yashmetov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arhon\source\repos\yashmetov\yashmetov\obj\Debug\net8.0\yashmetov.AssemblyInfoInputs.cache
+C:\Users\arhon\source\repos\yashmetov\yashmetov\obj\Debug\net8.0\yashmetov.AssemblyInfo.cs
+C:\Users\arhon\source\repos\yashmetov\yashmetov\obj\Debug\net8.0\yashmetov.csproj.CoreCompileInputs.cache
+C:\Users\arhon\source\repos\yashmetov\yashmetov\obj\Debug\net8.0\yashmetov.dll
+C:\Users\arhon\source\repos\yashmetov\yashmetov\obj\Debug\net8.0\refint\yashmetov.dll
+C:\Users\arhon\source\repos\yashmetov\yashmetov\obj\Debug\net8.0\yashmetov.pdb
+C:\Users\arhon\source\repos\yashmetov\yashmetov\obj\Debug\net8.0\ref\yashmetov.dll
